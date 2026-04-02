@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Multimodal Research Project! This project is dedicated to exploring the intersection of various data modalities, leveraging the power of Jupyter Notebooks and Python for analysis and visualization. In our increasingly digital world, understanding how different data types interact and complement one another is essential for making informed decisions and driving advancements in various fields such as computer vision, natural language processing, and audio processing.
+This project aims to detect multimodal (text + images) metaphors used in AI discourse in news articles. 
 
 ### Project Overview
 This project aims to combine data from multiple sources—such as text, images, and audio—to develop robust models and insights. By employing Jupyter Notebooks, we create an interactive, user-friendly environment that facilitates experimentation and collaboration. Python, with its rich ecosystem of libraries and frameworks, is utilized for data manipulation, statistical analysis, and machine learning.
@@ -57,6 +57,3 @@ MultimodalResearchProject/
 - **tests/**: Contains unit tests to ensure code quality and functionality.
   
 - **config/**: Holds configuration files for parameters, hyperparameters, and project settings.
-  
-### Conclusion
-Join us on this journey to uncover the potentials of multimodal research. Together, we can push the boundaries of knowledge and technology, creating innovative solutions that harness the power of diverse data types!
